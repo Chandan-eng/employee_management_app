@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "employees": [
+    {
+      "firstName": "AbhiTT",
+      "lastName": "RR",
+      "email": "abcRR@gmail.com",
+      "dob": "2024-12-31T18:30:00.000Z",
+      "gender": "male",
+      "qualification": "MBA",
+      "company": "ABS1",
+      "experience": 4,
+      "salary": 2000000,
+      "id": "447e"
+    },
+    {
+      "firstName": "Ria",
+      "lastName": "J",
+      "email": "ria@gmail.com",
+      "dob": "2025-01-08T18:30:00.000Z",
+      "gender": "male",
+      "qualification": "MBA",
+      "company": "R Company",
+      "experience": 2,
+      "salary": 500000,
+      "id": "a2c5"
+    },
+    {
+      "id": "7a65",
+      "firstName": "Ram",
+      "lastName": "R",
+      "email": "ram@gmail.com",
+      "dob": "2025-01-02T18:30:00.000Z",
+      "gender": "male",
+      "qualification": "Ph.D",
+      "company": "Ram",
+      "experience": 3,
+      "salary": 300000
+    }
+  ]
+}
